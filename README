@@ -1,0 +1,16 @@
+Google Analytics module for ci-bonfire.
+
+INSTALL
+===========================================
+Drop analytics folder in modules folder.
+Drop analytics.php in aplication/config.
+Run migration, set permissions and you're ready to use it.
+
+CONFIGURING
+===========================================
+You'll need a valid google analytics account to use 
+this module.
+Head over to settings->analytics and set your GA 
+username and password.
+
+The other two fields are not yet used.
