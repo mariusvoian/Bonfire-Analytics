@@ -1,5 +1,7 @@
 Google Analytics module for ci-bonfire.
 
+Based on the library found here http://codeigniter.com/forums/viewthread/128945/
+
 INSTALL
 ===========================================
 Drop analytics folder in modules folder.
